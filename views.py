@@ -8,3 +8,5 @@ def f4(request):
 	return HttpResponse('f4...')
 def f5(request):
 	return HttpResponse('f5...')
+def f6(request):
+	return HttpResponse('f6...')
