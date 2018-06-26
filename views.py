@@ -6,3 +6,5 @@ def f3(request):
 	return HttpResponse('f3...')
 def f4(request):
 	return HttpResponse('f4...')
+def f5(request):
+	return HttpResponse('f5...')
